@@ -1,0 +1,25 @@
+#contact {
+  background-color: #1C1C1C;
+  color: #FFFFFF;
+  margin-top: 3em; }
+  #contact .container {
+    margin-top: 2em; }
+  #contact p {
+    max-width: 15em; }
+  #contact .col-sm-1 {
+    color: blue;
+    padding-left: 0;
+    line-height: 1.7em;
+    transform: translateY(-0.3em); }
+    #contact .col-sm-1 .fa-mobile {
+      padding-top: .8em; }
+  #contact .col-sm-11 {
+    padding: 0;
+    padding-right: 0; }
+    #contact .col-sm-11 p {
+      max-width: 13em;
+      margin-bottom: .4em; }
+  #contact .second {
+    padding-top: 5em; }
+
+/*# sourceMappingURL=contact.css.map */

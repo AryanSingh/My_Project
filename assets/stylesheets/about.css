@@ -1,0 +1,29 @@
+#about {
+  height: auto;
+  display: inline-block;
+  background-color: yellow;
+  width: 100%;
+  background-size: cover; }
+  #about .special {
+    margin: 0;
+    padding: 0;
+    width: 100%; }
+  #about .full {
+    width: 100%;
+    margin: 0; }
+  #about .left {
+    display: inline-block;
+    position: relative;
+    padding: 0; }
+  #about .right {
+    display: inline-block;
+    background-size: cover;
+    text-align: center; }
+  #about .zero-p {
+    padding: 0; }
+  #about .middle {
+    max-width: 40em;
+    text-align: center;
+    padding-left: 4em; }
+
+/*# sourceMappingURL=about.css.map */

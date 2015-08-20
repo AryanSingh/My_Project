@@ -1,0 +1,22 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+#slide1{
+  width:100%;
+  background-image: url('slide1.jpg');
+  /*background-color: green;*/
+  height: 100vh;
+  background-position: 100% 70%;
+  background-size: cover;
+  color:#FFFFFF;
+  /*position:ce;*/
+  border:1px solid transparent;
+  
+  .cont{
+    border: 1px solid transparent;
+    position: relative;
+    top: 50%;
+    text-align:center;
+  }
+}
+  

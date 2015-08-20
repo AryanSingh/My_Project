@@ -1,0 +1,39 @@
+.col-sm-3 {
+  padding: 0px !important;
+  margin: 0px !important; }
+
+#portfolio {
+  text-align: center;
+  width: 100%; }
+  #portfolio table {
+    width: 100%; }
+  #portfolio h2 {
+    padding-bottom: 1em;
+    color: blue;
+    font-weight: bold; }
+  #portfolio p {
+    line-height: .5em; }
+  #portfolio a {
+    font-weight: bold;
+    margin: 1em;
+    padding: .5em 1em .5em 1em;
+    text-decoration: none;
+    border: 1px solid transparent;
+    color: #000;
+    border-radius: 1em; }
+    #portfolio a:hover {
+      background-color: blue;
+      color: white; }
+  #portfolio #two {
+    padding-bottom: .9em; }
+  #portfolio .port-spec {
+    margin: 0;
+    padding-top: 1em;
+    width: auto; }
+  #portfolio .fit {
+    width: cover;
+    padding: 0;
+    margin: 0;
+    background-image: cover; }
+
+/*# sourceMappingURL=portfolio.css.map */

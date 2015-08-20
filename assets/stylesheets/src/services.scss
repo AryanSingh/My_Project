@@ -1,0 +1,22 @@
+#services{
+  width:100%;
+  height:auto;
+  background-color: #FFFFFF;
+
+  .services-headline{
+    text-align:center;
+    margin-top: 3em;
+
+  }
+  .row p{
+    max-width: 30vw;
+
+  }
+  .tags{
+    float: right;
+    padding-right: 0;
+    padding-top: 1em;
+    font-size: 1.5em;
+    color:blue;
+  }
+}

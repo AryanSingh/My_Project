@@ -1,0 +1,50 @@
+  .col-sm-3{
+    padding: 0px !important;
+    margin: 0px !important;
+  }
+
+#portfolio{
+  text-align: center;
+  width:100%;
+
+  table{
+    width:100%;
+  }
+  h2{
+    // border-bottom: 1px solid blue;
+    padding-bottom: 1em;
+    color:blue;
+    font-weight: bold;
+  }
+  p{
+    line-height: .5em;
+  }
+  a{
+    font-weight: bold;
+    margin: 1em;
+    padding: .5em 1em .5em 1em;
+    text-decoration: none;
+    border: 1px solid transparent;
+    color: #000;
+    border-radius:1em;
+    &:hover{
+      background-color: blue;
+      color:white;
+    }
+    
+  }
+  #two{
+    padding-bottom: .9em;
+  }
+  .port-spec{
+    margin:0;
+    padding-top:1em;
+    width:auto;
+  }
+  .fit{
+    width:cover;
+    padding:0;
+    margin:0;
+    background-image: cover;
+  }
+}
